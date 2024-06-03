@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/samxinliang/samxinliang/assets/166351894/8139b225-6b04-4d6b-8526-67d69cbb1bf6)
 
 # 112 教育部智慧創新計畫
 <a href="http://140.126.146.12:9090/GitHub2023/">112 教育部智慧創新之 GitHub 學習平台</a>&nbsp;<a
